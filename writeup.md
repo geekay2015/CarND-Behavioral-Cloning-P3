@@ -13,8 +13,7 @@ I used the training dataset provided by Udacity, available here. The dataset inc
 
 You can find most of the image effect (image augmentation in `dataset.py` file). The trained model was tested on on track1. Following  animations show the performance of my final model.
 
-[![Model performance on track 1](https://youtu.be/vkKaU1jYI3M)
-
+[![Model performance on track 1](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://youtu.be/vkKaU1jYI3M)
 
 # Goals and Objective
 The goals / steps of this project are the following:
